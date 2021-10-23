@@ -2,7 +2,7 @@
 import rospy
  
 if __name__=='__main__':
-    rospy.init_node('my_first_node')##initializing the node
+    rospy.init_node('my_first_node')##initializing the node againa aaaaaaa
     rospy.loginfo("this is my first node")
     # rospy.sleep(1)
     # rospy.loginfo('heheh')#ok done
