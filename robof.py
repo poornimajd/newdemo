@@ -11,5 +11,6 @@ if __name__=='__main__':
     while not rospy.is_shutdown():###when u ill the node it is shut
         rospy.loginfo('hello')
         rate.sleep()###sleeps for 0.1 sec,cause of the rate set,sleeps acc to the rate set
+       ##all done
 
 
